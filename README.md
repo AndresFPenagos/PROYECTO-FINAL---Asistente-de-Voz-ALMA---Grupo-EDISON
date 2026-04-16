@@ -7,16 +7,16 @@ El alcance del proyecto abarca la especificación completa del diseño de hardwa
 completos, PCBs 100% enrutadas, reglas de integridad de señal aplicadas y la entrega del paquete de
 fabricación/ensamble y de la documentación técnica asociada. No se implementa firmware ni software,
 pero el equipo debe definir cómo el software interactuaría con el hardware y presentar una arquitectura
-lógica en capas
+lógica en capas  
 
-Universidad de Antioquia
+Universidad de Antioquia  
 
-Departamento de Ingeniería Electrónica y de Telecomunicaciones
+Departamento de Ingeniería Electrónica y de Telecomunicaciones  
 
-Integrantes GRUPO EDISON:
+Integrantes GRUPO EDISON:  
 
-Andrés Felipe Penagos Betancur - andres.penagos1@udea.edu.co --- LÍDER
-Cristian David Araujo Araujo - cristian.araujo@udea.edu.co
-Brayan Estiben Gómez Carmona - brayan.gomezc@udea.edu.co
-Carlos Daniel Rúa Gutiérrez - cdaniel.rua1@udea.edu.co
-Leyder Homero Marcillo Mera - leyder.marcillo@udea.edu.co
+Andrés Felipe Penagos Betancur - andres.penagos1@udea.edu.co --- LÍDER  
+Cristian David Araujo Araujo - cristian.araujo@udea.edu.co  
+Brayan Estiben Gómez Carmona - brayan.gomezc@udea.edu.co  
+Carlos Daniel Rúa Gutiérrez - cdaniel.rua1@udea.edu.co  
+Leyder Homero Marcillo Mera - leyder.marcillo@udea.edu.co  
